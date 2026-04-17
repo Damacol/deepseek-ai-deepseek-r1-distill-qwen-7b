@@ -1,4 +1,4 @@
-# deepseek-ai/DeepSeek-R1-Distill-Qwen-7B - Private, Uncensored AI for Real Creators and Devs
+# deepseek-ai/DeepSeek-R1-Distill-Qwen-7B  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
